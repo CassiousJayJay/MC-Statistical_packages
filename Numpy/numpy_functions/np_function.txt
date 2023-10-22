@@ -1,0 +1,7 @@
+Array Operations	                Functions
+
+Array Creation Functions	        np.array(), np.zeros(), np.ones(), np.empty(), etc.
+Array Manipulation Functions	    np.reshape(), np.transpose(), etc.
+Array Mathematical Functions	    np.add(), np.subtract(), np.sqrt(), np.power(), etc.
+Array Statistical Functions	        np.median(), np.mean(), np.std(), and np.var().
+Array Input and Output Functions	np.save(), np.load(), np.loadtxt(), etc.
